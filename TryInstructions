@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {color:#006400;}
+p {color:#006400;}
+h2 {colour:#556B2F}
+h3 {colour:#556B2F}
+</style>
+</head>
+<body{
+  background-color: #FFF8DC;
+}>
+
+<h1>Alex Quantz</h1>
+<h3>Contact Info</h3><br>
+<h2>experience</h2>
+
+<p>work, volunteer</p>
+</body>
+</html>
+
+<h2>external links</h2><br>
+<p>linkedin</p>
