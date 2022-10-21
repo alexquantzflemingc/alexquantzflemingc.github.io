@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <!--Reference to CSS. https://www.w3schools.com/tags/tag_link.asp-->
+ <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Alex Quantz</h1>
+
+<h3>Outdoor enthusiast with a passion for working with and studying wildlife!</h3>
+
+<p> This page features all of the lovely photos of wildlife and additonal information on who to contact if you have questions about wildlife or want to learn more<p>
+
+<h3>Blazing Star Environmental</h3>
+<!--Inserting image from relative pathway. https://www.w3schools.com/html/html_images.asp-->
+<!--ImagesOption 1/5 Begin-->
+<img src="/photos1/ModelBLTU.jpg" alt="BLTU" width="756" height="1008">
+<!--ImagesOption 1/5 End-->
+<p>Adult Male Blandings Turtle (Emydoidea blandingii). (Handled under permits)<p>
+
+<!--Inserting image from relative pathway. https://www.w3schools.com/html/html_images.asp-->
+<!--ImagesOption 2/5 Begin-->
+<img src="/photos1/SmoothGreen.jpg" alt="SGSN" width="756" height="1008">
+<!--ImagesOption 2/5 End-->
+<p>Smooth Green Snake (Opheodrys vernalis) removed from the road on a road survey. (Handled under permits)<p>
+
+<h3>Scales Nature Park</h3>
+<!--Reference to linking url. https://www.w3schools.com/html/html_attributes.as-->
+<!--LinksOption 2/3 Begin-->
+<h3>For more information you can visit the website for <a href="https://www.scalesnaturepark.ca/">Scales Nature Park</a></h3>
+<!--LinksOption 2/3 End-->
+
+<!--Inserting image from relative pathway. https://www.w3schools.com/html/html_images.asp-->
+<!--ImagesOption 3/5 Begin-->
+<img src="/photos1/MATU.JPG" alt="MATU" width="756" height="1008">
+<p>Adult Female Map Turtle (Graptemys geographica). (Handled under S.T.A.R.T. permits)<p>
+<!--ImagesOption 3/5 End-->
+
+<!--Inserting image from relative pathway. https://www.w3schools.com/html/html_images.asp-->
+<!--ImagesOption 4/5 Begin-->
+<img src="/photos1/BbySNTU.jpg" alt="SNTU" width="756" height="1008">
+<!--ImagesOption 4/5 End-->
+<p>Hatchling Snapping Turtle (Chelydra serpentina) getting ready to be released after being incubated with the rest of its clutch in an incubator. (Handled under permits)<p>
+
+
+<h3>Shades of Hope Wildlife Refuge</h3>
+<!--Reference to linking url. https://www.w3schools.com/html/html_attributes.as-->
+<!--LinksOption 3/3 Begin-->
+<h3>For more information you can visit the website for <a href="https://www.shadesofhope.ca/">Shades of Hope</a></h3>
+<!--LinksOption 3/3 End-->
+
+<!--Inserting image from relative pathway. https://www.w3schools.com/html/html_images.asp-->
+<!--ImagesOption 5/5 Begin-->
+<img src="/photos1/Oppos.JPG" alt="Possum" width="756" height="1008">
+<!--ImagesOption 5/5 End-->
+<p>Juvenile Oppossum  (Didelphis virginiana). (Handled with proper care until ready for release)<p>
+
+<!--Inserting image from relative pathway. https://www.w3schools.com/html/html_images.asp-->
+<img src="/photos1/Porc.JPG" alt="Porccupine" width="756" height="1008">
+<p>Juvenile Porccupine (Erethizon dorsatum). (Handled with proper care until ready for release)<p>
+
+<!--Reference to linking url. https://www.w3schools.com/html/html_attributes.as-->
+<!--LinksOption 1/3 Begin-->
+<h3>For more information you can connect with me on <a href="https://www.linkedin.com/in/alexandra-quantz">LinkedIn</a></h3>
+<!--LinksOption 1/3 End-->
+
+</body>
+</html>
