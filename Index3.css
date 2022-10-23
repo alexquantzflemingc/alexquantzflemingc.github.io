@@ -6,7 +6,7 @@
 body {
   background-color: #FFFAF0;
 }
-/* The h1 applies to the firt headers defining text colour, alignment and size */
+/* The h1 applies to the first headers defining text colour, alignment and size */
 h1 {
 	color: #006400;
 	text-align: center;
@@ -28,13 +28,44 @@ h3 {
 h4 {
 	color: #008000;
 	text-align: center;
-	font-size: 14px;
+	font-size: 13px;
 }
 /* The p applies to the paragraph text defining the colour and size */
 p {
 	color: #2F4F4F;
 	text-align: center;
 	font-size: 13px;
+}
+/* Aligns images to the center and turns it into a block element. */
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* Creates horozontal navbar. https://www.w3schools.com/css/css_navbar_horizontal.asp  */
+ul {
+  list-style-type: inline;
+  margin: 40px;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 15px;
+  background-color: #FAEBD7;
+  border: 1px solid #006400;
+}
+/* Reference to styling class element. https://www.w3schools.com/html/html_classes.asp  */
+.header {
+  background-color: #FAEBD7;
+  border: 1px solid #006400;
+  padding: 10px;
+  font-style: bold;
 }
 
 </style>
